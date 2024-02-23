@@ -33,7 +33,8 @@ var TREE_ITEMS = [
 				['Domeinuari buruzko informazioa',null,
 					['Zer da frankizia bat','../Proiektua/MemoriarenEranskinak/Frankizia.pdf'],
 					['Frankiziei buruzko informazioa','https://www.franchise.org/'],
-					['Frankizien hornitzailei buruzko informazioa','https://www.franchise.org/suppliers'],
+					['Frankizien emaileei buruzko informazioa','https://www.franchise.org/suppliers'],
+					//https://www.groupe.schmidt/es/trabaje-con-nosotros/conviertase-en-proveedor/
 				],
 				['Bezeroak proposatutako ebaluazio-txantiloiak',null,
 					['Request for Proposals (RFP) txantiloia','../Proiektua/MemoriarenEranskinak/rfp-template-government-model.pdf'],
